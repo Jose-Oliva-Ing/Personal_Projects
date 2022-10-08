@@ -1,1 +1,2 @@
-# Personal_Projects
+# Personal Projects
+# Author: Jose Antonio Ramirez Oliva
