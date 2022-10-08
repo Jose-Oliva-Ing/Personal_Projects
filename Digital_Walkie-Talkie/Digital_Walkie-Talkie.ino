@@ -1,3 +1,5 @@
+// Author: Jose Antonio Ramirez Oliva
+
 //#include "BluetoothSerial.h"
 #include "RF24.h"
 
