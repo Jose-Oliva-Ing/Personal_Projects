@@ -22,9 +22,9 @@ WidgetRTC rtc;
 WidgetLCD LCD(V0);
 
 /*REQUERIMIENTOS DE BLYNK*/
-char auth[] = "Xa7GvPTslM1hX4Shy-BgFgeLpA9Vx0SC";  // Auth Token Blynk App.
-char ssid[] = "IZZI-5A10";  // Nombre de la red WiFi
-char pass[] = "F82DC0155A10";  // Contraseña del Wifi; para redes abiertas usar ""
+char auth[] = "";  // Auth Token Blynk App.
+char ssid[] = "";  // Nombre de la red WiFi
+char pass[] = "";  // Contraseña del Wifi; para redes abiertas usar ""
 
 /*VARIABLES PARA RECONECTARSE A INTERNET*/
 unsigned long Ultima_conexion = millis();
