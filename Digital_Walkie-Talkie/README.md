@@ -1,1 +1,1 @@
-
+El circuito está conformado por un transmisor y receptor; los cuales cada uno están conformados por un módulo Esp32 Wifi Bluetooth 4.2 Esp-32 Esp3266 Nodemcu, el cual esta conectado al módulo adaptador inalámbrico transceptor Nrf24l01 en conjunto con el módulo transceptor inalámbrico Rf Nrf24l01 2.4ghz con antena. 
